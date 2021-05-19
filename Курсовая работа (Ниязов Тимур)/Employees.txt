@@ -1,0 +1,12 @@
+Ivanov        Andrey    Ser            2000 12       50   Minsk            100.00
+Durdyev       Merdan    Amanov         2010 6        33   Dubai            48.00
+Kemal         Shahov    Durdyevich     2009 3        29   Kiev             40.00
+Gurbanov      Dowlet    Amanov         2020 11       25   Moscow           30.00
+Andreev       Timur     Pavlovich      2011 5        20   Dubai            100.00
+Amanov        Timur     Sergeevich     2018 7        19   Minsk            42.00
+Anton         Sergeev   Andreevich     2012 4        15   Dubai            50.00
+Ivanov        Andrey    Grigoryevich   2013 6        7    Kiev             60.00
+Ataev         Selim     Pavlovich      2009 1        75   Ashgabat         200.00
+Dmitriev      Anton     Pavlovich      2017 9        43   Dubai            150.00
+Ivanov        Anton     Pavlovich      2021 8        11   Kiev             103.00
+Muhammet      Ivanov    Andreevich     2011 12       5    Kiev             40.00
